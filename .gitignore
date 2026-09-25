@@ -1,0 +1,15 @@
+﻿.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+/repository/*
+!/repository/.gitkeep
+/simulated_usb/*
+!/simulated_usb/.gitkeep
